@@ -1,0 +1,67 @@
+﻿  app.cpp
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(200,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(27,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(210,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(48,12): message : see declaration of 'clsBankClient::stTransferLogRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(423,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(436,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsTransferScreen.h(47,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\FileCPP\Pjt5BankOOP\app\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  clsClientListScreen.cpp
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(200,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(27,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(210,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(48,12): message : see declaration of 'clsBankClient::stTransferLogRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(423,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(436,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  clsFindClientScreen.cpp
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(200,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(27,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(210,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(48,12): message : see declaration of 'clsBankClient::stTransferLogRecord'
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(423,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(436,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  clsScreen.cpp
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\FileCPP\Pjt5BankOOP\app\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(200,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(27,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+  Generating Code...
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(378): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\FileCPP\Pjt5BankOOP\app\clsUser.h(362): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\FileCPP\Pjt5BankOOP\app\clsBankClient.h(440): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  app.vcxproj -> D:\FileCPP\Pjt5BankOOP\x64\Debug\app.exe
