@@ -11,4 +11,5 @@ Ali#//#Ali#//#Ali@al.com#//#83837#//#A112#//#1234#//#7000.000000
 Hamed#//#Omar#//#Om@g.com#//#37732#//#A500#//#1234#//#1221.000000
 Ali#//#Mohamed#//#Zaid@Gmail.com#//#0778482438#//#B101#//#9900#//#3000.000000
 Ali#//#Mohamed#//#Mohamed@Gmail.com#//#07273423#//#A010#//#1100#//#7000.000000
-Abdulghani#//#Yasir#//#Abod@gmail.com#//#077928347233#//#1234#//#8822#//#500.000000
+Abdulghani#//#Yasir#//#Abod@gmail.com#//#077928347233#//#1234#//#8822#//#1500.000000
+Abdul Ghani#//#Yasir#//#abdulghaniyasser1@gmail.com#//#9647731014635#//#8008#//#1234#//#2000.000000
